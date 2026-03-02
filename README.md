@@ -1,12 +1,12 @@
-<h1 align="left">Hi, I'm Shabbeer Syed 👋</h1>
+<h1 align="left">Hi there, I'm Shabbeer Basha Syed 👋</h1>
 
 <p align="left">
-Building intelligent systems across AI, Data, and Automation.<br/>
-MS-IST @ University of North Texas (4.0 GPA) • Ex-Cognizant
+  <b>Data Analyst • AI Builder • Automation Engineer</b><br/>
+  MS-IST @ University of North Texas (GPA 4.0) • Ex-Cognizant • 3+ Years Experience
 </p>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=shabbeersyed&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=shabbeersyed&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -15,18 +15,23 @@ MS-IST @ University of North Texas (4.0 GPA) • Ex-Cognizant
 <tr>
 <td valign="top" width="60%">
 
-## 🚀 What I Do
+## 🚀 Currently
+- 🌱 Learning AI / LLM Systems
+- 📊 Working on Financial & Governance Analytics @ UNT
+- ⚙️ Building Automation & Data Intelligence Systems
+- 👯 Open to AI / Data / Analytics / Automation roles
+- 📫 Email: syedshabbeerbasha08@gmail.com
 
-- Build AI-powered decision systems  
-- Design scalable analytics platforms  
-- Engineer automation frameworks  
-- Translate business problems into intelligent solutions  
+## 🧠 About Me
+Results-driven Data Analyst with 3+ years of experience across analytics, reporting, BI, and enterprise automation.
 
-Currently working on:
-
-🌱 AI / LLM-based systems  
-📊 Decision intelligence dashboards  
-⚙️ Enterprise automation  
+Skilled in:
+- SQL
+- Python
+- Power BI
+- Tableau
+- Azure Synapse
+- Databricks
 
 </td>
 
@@ -40,77 +45,110 @@ Currently working on:
 
 ---
 
-## 🧠 Engineering Impact
+## 🏆 Achievements & Metrics
 
-- Improved reporting accuracy by **20%**
-- Reduced regression runtime by **30%**
-- Built automation for systems serving **50K+ users**
-- Validated **100K+ enterprise records**
-- Designed governance frameworks for financial analytics
+<p align="left">
+<img src="https://img.shields.io/badge/Power%20BI-Certified-yellow?style=flat"/>
+<img src="https://img.shields.io/badge/Automation-Frameworks-blue?style=flat"/>
+<img src="https://img.shields.io/badge/LLM-Builder-black?style=flat"/>
+<img src="https://img.shields.io/badge/Azure-Analytics-blue?style=flat"/>
+</p>
+
+- 🥈 2nd Place — UNT Business Analytics Hackathon (40+ teams)
+- 🎓 TGS Academic Achievement Scholar
+- 📊 Improved reporting accuracy by 20%
+- ⚙️ Reduced regression execution time by 30%
+- 🚀 Built LLM-powered Health Agent
+- 🎯 Cleared Google Online Technical Assessment (Data/ML Track)
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 GitHub Activity Metrics
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,postgres,mysql,mongodb,azure,aws,linux,git,selenium" />
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=shabbeersyed&show_icons=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabbeersyed&layout=compact&hide_border=true"/>
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-Analytics-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tableau-Visualization-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Azure-Synapse-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Databricks-Data%20Platform-red?style=for-the-badge"/>
-</p>
-
----
-
-## 📊 GitHub Metrics
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=shabbeersyed&show_icons=true&hide_border=true&theme=default" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabbeersyed&layout=compact&hide_border=true&theme=default" />
-</p>
-
-<p>
-<img src="https://streak-stats.demolab.com?user=shabbeersyed&theme=default&hide_border=true" />
+<p align="left">
+<img src="https://streak-stats.demolab.com?user=shabbeersyed&hide_border=true"/>
 </p>
 
 ---
 
-## 🔬 Featured Systems
+## 📈 Contribution Graph
 
-### 🏥 Health Agent
-LLM-powered assistant converting doctor–patient conversations into structured clinical documentation.
+<p align="left">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shabbeersyed&bg_color=ffffff&color=000000&line=007acc&point=000000&area=false&hide_border=true"/>
+</p>
 
-### 📊 AdventureWorks Analytics Platform
-Interactive BI system for revenue and performance analysis.
+---
 
-### ✈️ Flight Delay Intelligence
-Operational analytics revealing delay patterns.
+## 💡 Special Focus
 
-### 🛒 Purchase Prediction Engine
-Machine learning system for buying behavior prediction.
+- 🤖 LLM Applications & NLP
+- 📊 Decision Intelligence & Dashboards
+- ⚙️ Enterprise Automation
+- ☁️ Cloud Analytics
+
+---
+
+## 🛠️ Skills
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,r,java,postgres,mysql,mongodb,azure,aws,linux"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=selenium,git,github,vscode,postman"/>
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=E97627"/>
+<img src="https://img.shields.io/badge/Azure%20Synapse-000000?style=for-the-badge&logo=microsoftazure&logoColor=0078D4"/>
+<img src="https://img.shields.io/badge/Databricks-000000?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
+</p>
+
+---
+
+## 🔬 Systems Built
+
+### 🏥 Health Agent — AI Medical Documentation Assistant
+LLM-powered system converting doctor–patient conversations into structured SOAP notes.
+
+### 📊 AdventureWorks Sales Dashboard
+Power BI dashboard uncovering revenue & profit trends using DAX.
+
+### ✈️ U.S. Flight Delay Dashboard
+Tableau analytics revealing operational bottlenecks.
+
+### 🛒 Customer Purchase Prediction
+ML model predicting buying likelihood from 10K+ records.
 
 ### 📄 NLP Information Extraction
-Pipeline transforming unstructured text into structured insights.
+Converted unstructured research text into structured insights.
 
 ---
 
-## 🎯 Focus Areas
+## 🎯 Engineering Interests
 
 - AI Decision Systems
-- Predictive Intelligence
-- Automation Architecture
-- Data Governance
+- Predictive Analytics
+- Enterprise Automation
+- Governance Analytics
 
 ---
 
-## 🤝 Connect
+## 🤝 Contact Me
 
-📧 syedshabbeerbasha08@gmail.com  
-💻 github.com/shabbeersyed  
+<p align="left">
+<a href="mailto:syedshabbeerbasha08@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+<a href="https://github.com/shabbeersyed">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+</p>
 
 ---
 
-⭐ Engineering systems that turn data into decisions
+⭐ Engineering AI & data systems for real-world impact
