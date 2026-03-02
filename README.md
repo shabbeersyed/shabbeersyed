@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Shabbeer Basha Syed 👋</h1>
+<h1 align="left">Hi there, I'm Shabbeer Syed 👋</h1>
 
 <p align="left">
   <b>Data Analyst • AI Builder • Automation Engineer</b><br/>
@@ -6,26 +6,25 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shabbeersyed&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=shabbeersyed&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
----
 
 <table>
 <tr>
 <td valign="top" width="60%">
 
 ## 🚀 Currently
-- 🌱 Learning AI / LLM Systems
+- 🌱 Learning **AI / LLM Systems**
 - 📊 Working on Financial & Governance Analytics @ UNT
 - ⚙️ Building Automation & Data Intelligence Systems
-- 👯 Open to AI / Data / Analytics / Automation roles
-- 📫 Email: syedshabbeerbasha08@gmail.com
+- 👯 Open to **AI / Data / Analytics / Automation roles**
+- 📫 Email: **syedshabbeerbasha08@gmail.com**
 
 ## 🧠 About Me
-Results-driven Data Analyst with 3+ years of experience across analytics, reporting, BI, and enterprise automation.
+Results-driven Data Analyst with **3+ years of experience** across analytics, reporting, BI, and enterprise automation.
 
 Skilled in:
+
 - SQL
 - Python
 - Power BI
@@ -37,7 +36,7 @@ Skilled in:
 
 <td valign="top" width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320"/>
 
 </td>
 </tr>
@@ -48,17 +47,18 @@ Skilled in:
 ## 🏆 Achievements & Metrics
 
 <p align="left">
-<img src="https://img.shields.io/badge/Power%20BI-Certified-yellow?style=flat"/>
-<img src="https://img.shields.io/badge/Automation-Frameworks-blue?style=flat"/>
-<img src="https://img.shields.io/badge/LLM-Builder-black?style=flat"/>
-<img src="https://img.shields.io/badge/Azure-Analytics-blue?style=flat"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-Expert-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-Certified-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-QA%20Engineering-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Apps-Builder-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure-Analytics-blue?style=for-the-badge"/>
 </p>
 
-- 🥈 2nd Place — UNT Business Analytics Hackathon (40+ teams)
-- 🎓 TGS Academic Achievement Scholar
-- 📊 Improved reporting accuracy by 20%
-- ⚙️ Reduced regression execution time by 30%
-- 🚀 Built LLM-powered Health Agent
+- 🥈 **2nd Place** — UNT Business Analytics Hackathon (40+ teams)
+- 🎓 **TGS Academic Achievement Scholar**
+- 📊 Improved reporting accuracy by **20%**
+- ⚙️ Reduced regression execution time by **30%**
+- 🚀 Built LLM-powered **Health Agent**
 - 🎯 Cleared Google Online Technical Assessment (Data/ML Track)
 
 ---
@@ -66,12 +66,12 @@ Skilled in:
 ## 📊 GitHub Activity Metrics
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=shabbeersyed&show_icons=true&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabbeersyed&layout=compact&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shabbeersyed&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabbeersyed&layout=compact"/>
 </p>
 
 <p align="left">
-<img src="https://streak-stats.demolab.com?user=shabbeersyed&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=shabbeersyed"/>
 </p>
 
 ---
@@ -79,7 +79,7 @@ Skilled in:
 ## 📈 Contribution Graph
 
 <p align="left">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shabbeersyed&bg_color=ffffff&color=000000&line=007acc&point=000000&area=false&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shabbeersyed&hide_border=true"/>
 </p>
 
 ---
@@ -110,7 +110,7 @@ Skilled in:
 
 ---
 
-## 🔬 Systems Built
+## 🔬 Featured Projects
 
 ### 🏥 Health Agent — AI Medical Documentation Assistant
 LLM-powered system converting doctor–patient conversations into structured SOAP notes.
@@ -129,12 +129,12 @@ Converted unstructured research text into structured insights.
 
 ---
 
-## 🎯 Engineering Interests
+## 🎯 Focus Areas
 
-- AI Decision Systems
-- Predictive Analytics
-- Enterprise Automation
-- Governance Analytics
+✔️ AI Decision Systems  
+✔️ Predictive Analytics  
+✔️ Enterprise Automation  
+✔️ Governance Analytics  
 
 ---
 
@@ -151,4 +151,4 @@ Converted unstructured research text into structured insights.
 
 ---
 
-⭐ Engineering AI & data systems for real-world impact
+⭐ Building intelligent systems that turn data into decisions
