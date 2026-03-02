@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Shabbeer Syed 👋</h1>
+<h1 align="left">Hi there, I'm Shabbeer Basha Syed 👋</h1>
 
 <p align="left">
   <b>Data Analyst • AI Builder • Automation Engineer</b><br/>
