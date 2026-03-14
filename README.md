@@ -1,6 +1,8 @@
-<h1 align="center">Hi, I'm Shabbeer Basha Syed 👋</h1>
+<h1 align="center">Hi, I'm Shabbeer Basha Syed</h1>
 
-<h3 align="center">AI Systems Builder • Data & Automation Engineer</h3>
+<p align="center">
+AI Systems Builder • Data & Automation Engineer
+</p>
 
 <p align="center">
 MS in Information Systems & Technology @ University of North Texas (GPA 4.0)  
@@ -8,140 +10,188 @@ Ex-Cognizant • 3+ Years Experience
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3500&color=3B82F6&center=true&vCenter=true&width=800&lines=Building+AI+Systems;Multi-Agent+LLM+Workflows;Automation+and+Data+Intelligence;Open+to+AI+%2F+Data+%2F+Automation+Roles"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=shabbeersyed&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3500&color=6B7280&center=true&vCenter=true&width=750&lines=Building+AI+Systems;Multi-Agent+LLM+Workflows;Automation+%26+Data+Engineering;Open+to+AI+%2F+Data+%2F+Automation+Roles"/>
 </p>
 
 ---
 
-# 🚀 Selected Projects (Ranked by Impact)
+# Selected AI & Data Projects
 
-## 🏥 Health Agent — AI Medical Documentation Assistant
-Flagship AI system converting **doctor–patient conversations into structured SOAP medical notes**.
+### Health Agent — AI Medical Documentation Assistant
+Flagship AI system that converts **doctor-patient conversations into structured SOAP medical notes**.
 
-**Tech:** Python • LLMs • NLP • Speech Processing  
+**Technologies**
+
+Python • LLMs • NLP • Speech Processing
 
 ---
 
-## 🧠 Enterprise Testing Assistant (ETA)
-AI-powered QA assistant generating:
+### Enterprise Testing Assistant (ETA)
+
+AI-powered QA assistant that generates:
 
 • Selenium automation scripts  
 • API test cases  
 • SQL validation queries  
 • regression testing insights  
 
-**Tech:** FastAPI • Google Gemini • Python • Cloud Deployment
+**Technologies**
+
+FastAPI • Google Gemini • Python • Cloud Deployment
 
 ---
 
-## 🤖 AI Recruitment Processing Pipeline
-Multi-agent AI system automating early recruitment stages.
+### AI Recruitment Processing Pipeline
+
+Multi-agent AI system automating early hiring workflows.
 
 Capabilities:
 
 • ATS resume scoring  
-• AI-generated candidate questionnaires  
-• AI answer evaluation  
+• AI-generated questionnaires  
+• candidate answer evaluation  
 • automated interview confirmation  
 
-**Tech:** n8n • OpenAI • Gemini • JavaScript • Google Sheets
+**Technologies**
+
+n8n • OpenAI • Gemini • JavaScript • Google Sheets
 
 ---
 
-## 🛒 Customer Purchase Prediction
-Machine learning model predicting **customer purchase likelihood** using transactional data.
+### Customer Purchase Prediction
 
-**Tech:** Python • Scikit-Learn • Data Analysis
+Machine learning model predicting customer purchase likelihood from transaction data.
 
----
+**Technologies**
 
-## 📄 NLP Information Extraction
-Pipeline converting **unstructured documents into structured analytical insights**.
-
-**Tech:** Python • NLP • Text Processing
+Python • Scikit-Learn • Data Analysis
 
 ---
 
-## ⚙️ n8n Automation Experiments
+### NLP Information Extraction
+
+Pipeline converting unstructured research text into structured analytical data.
+
+**Technologies**
+
+Python • NLP • Text Processing
+
+---
+
+### n8n Automation Experiments
+
 Collection of automation workflows exploring:
 
 • event-driven automation  
 • AI orchestration pipelines  
 • workflow-based data processing
 
-**Tech:** n8n • APIs • OpenAI • Google Sheets
+**Technologies**
+
+n8n • APIs • OpenAI • Google Sheets
 
 ---
 
-# 🧠 Core Skills
+# Core Skills
 
 ### AI & LLM Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" height="30"/>
+<img src="https://skillicons.dev/icons?i=aws" height="30"/>
+<img src="https://skillicons.dev/icons?i=azure" height="30"/>
+<img src="https://skillicons.dev/icons?i=js" height="30"/>
+</p>
+
 OpenAI • Google Gemini • Claude  
-LangChain • RAG • Prompt Engineering  
-Multi-Agent AI Systems
+LangChain • RAG • Multi-Agent Systems
+
+---
 
 ### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,java" height="30"/>
+</p>
+
 Python • SQL • JavaScript • Java • R
 
+---
+
 ### Data & Analytics
+
 Power BI • Tableau • Looker
 
-### Cloud Platforms
+---
+
+### Cloud & Data Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure" height="30"/>
+</p>
+
 Azure • AWS • Databricks • Synapse • Snowflake
 
+---
+
+### Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=selenium,jenkins" height="30"/>
+</p>
+
+n8n • Selenium • Jenkins • CI/CD • Postman
+
+---
+
 ### Data Engineering
+
 ETL Pipelines  
 Data Ingestion Systems  
 Dimensional Modeling
 
-### Automation
-n8n • Selenium • Jenkins • CI/CD Pipelines • Postman
-
 ---
 
-# 📈 Impact Highlights
+# Impact Highlights
 
 • Reduced regression testing time by **30%**  
 • Improved reporting accuracy by **20%**  
 • Designed **500+ enterprise test cases**  
 • Managed **300+ defects across enterprise releases**  
-• Validated **100K+ records** in data pipelines  
-• Supported platforms serving **50K+ users**
+• Validated datasets across **100K+ records**  
+• Supported platforms used by **50K+ users**
 
 ---
 
-# 🏆 Achievements
+# Achievements
 
-🎯 Cleared Google Online Technical Assessment (Data / ML Track)  
-🏅 Google Prompt-to-Prototype GenAI Workshop  
-🏅 Micro1 AI Certification — Applied Data Analytics & AI
+TGS Academic Achievement Scholar  
+Cleared Google Online Technical Assessment (Data / ML Track)  
+Google Prompt-to-Prototype GenAI Workshop  
+Micro1 AI Certification — Applied Data Analytics & AI
 
 ---
 
-# 📊 GitHub Activity
+# GitHub Activity
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shabbeersyed&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shabbeersyed&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shabbeersyed&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shabbeersyed&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabbeersyed&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabbeersyed&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📫 Connect With Me
+# Connect
 
-<p align="left">
+Email: syedshabbeerbasha08@gmail.com  
 
-<a href="mailto:syedshabbeerbasha08@gmail.com">Email</a> •
-<a href="https://github.com/shabbeersyed">GitHub</a> •
-<a href="https://www.linkedin.com/in/shabbeer-basha-syed/">LinkedIn</a>
+GitHub  
+https://github.com/shabbeersyed  
 
-</p>
+LinkedIn  
+https://www.linkedin.com/in/shabbeer-basha-syed/
