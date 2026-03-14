@@ -1,154 +1,159 @@
-<h1 align="left">Hi there, I'm Shabbeer Basha Syed 👋</h1>
+<h1 align="center">Hi there, I'm Shabbeer Basha Syed 👋</h1>
 
-<p align="left">
-  <b>Data Analyst • AI Builder • Automation Engineer</b><br/>
-  MS-IST @ University of North Texas (GPA 4.0) • Ex-Cognizant • 3+ Years Experience
+<h3 align="center">Data Analyst • AI Builder • Automation Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=0F62FE&center=true&vCenter=true&width=900&lines=MS-IST+%40+University+of+North+Texas+(GPA+4.0);Ex-Cognizant+%7C+3%2B+Years+of+Experience;Building+AI+%2F+Data+%2F+Automation+Systems;Open+to+AI+%2F+Data+%2F+Analytics+Roles" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shabbeersyed&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shabbeersyed&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
-
-<table>
-<tr>
-<td valign="top" width="60%">
-
-## 🚀 Currently
-- 🌱 Learning **AI / LLM Systems**
-- 📊 Working on Financial & Governance Analytics @ UNT
-- ⚙️ Building Automation & Data Intelligence Systems
-- 👯 Open to **AI / Data / Analytics / Automation roles**
-- 📫 Email: **syedshabbeerbasha08@gmail.com**
-
-## 🧠 About Me
-Results-driven Data Analyst with **3+ years of experience** across analytics, reporting, BI, and enterprise automation.
-
-Skilled in:
-
-- SQL
-- Python
-- Power BI
-- Tableau
-- Azure Synapse
-- Databricks
-
-</td>
-
-<td valign="top" width="40%" align="center">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
-## 🏆 Achievements & Metrics
+## 🚀 About Me
 
-<p align="left">
-<img src="https://img.shields.io/badge/Data%20Analytics-Expert-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power%20BI-Certified-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation-QA%20Engineering-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM%20Apps-Builder-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Azure-Analytics-blue?style=for-the-badge"/>
+Results-driven professional with **3+ years of experience** across **data analytics, enterprise automation, reporting, and AI-driven systems**.
+
+Currently pursuing a **Master’s in Information Systems & Technology** at the **University of North Texas** with a **4.0 GPA**, while building projects in **AI, workflow automation, data intelligence, and analytics systems**.
+
+I enjoy combining **data, AI, and automation** to create practical solutions that improve decision-making and business processes.
+
+---
+
+## 🌱 Currently
+
+- Learning **AI / LLM Systems**
+- Working on **Financial & Governance Analytics @ UNT**
+- Building **Automation & Data Intelligence Systems**
+- Open to **AI / Data / Analytics / Automation roles**
+
+---
+
+## 🛠️ Skills
+
+### Data & Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-- 🥈 **2nd Place** — UNT Business Analytics Hackathon (40+ teams)
+- Power BI  
+- Tableau  
+- SQL  
+- Python  
+
+### Cloud / Data Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=azure" />
+</p>
+
+- Azure Synapse  
+- Databricks  
+
+### Automation / AI
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,java" />
+</p>
+
+- Workflow Automation  
+- LLM Applications  
+- Data Pipelines  
+- AI Integrations  
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **2nd Place — UNT Business Analytics Hackathon** (40+ teams)
 - 🎓 **TGS Academic Achievement Scholar**
 - 📊 Improved reporting accuracy by **20%**
 - ⚙️ Reduced regression execution time by **30%**
-- 🚀 Built LLM-powered **Health Agent**
-- 🎯 Cleared Google Online Technical Assessment (Data/ML Track)
+- 🚀 Built an **LLM-powered Health Agent**
+- 🎯 Cleared **Google Online Technical Assessment (Data/ML Track)**
 
 ---
 
-## 📊 GitHub Activity Metrics
+## 🔬 Featured Projects
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=shabbeersyed&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabbeersyed&layout=compact"/>
+### 🤖 AI Recruitment Processing Pipeline
+Built an AI-powered hiring automation workflow using **n8n, OpenAI, Google Gemini, JavaScript, Google Sheets, and Gmail** to automate resume screening, questionnaire generation, candidate evaluation, and interview preparation.
+
+### 🏥 Health Agent — AI Medical Documentation Assistant
+Built an LLM-powered system that converts doctor–patient conversations into structured **SOAP notes**.
+
+### 📊 AdventureWorks Sales Dashboard
+Developed a **Power BI dashboard** to analyze revenue, profit trends, and business performance using DAX.
+
+### ✈️ U.S. Flight Delay Dashboard
+Created a **Tableau dashboard** to identify airline delay patterns and operational bottlenecks.
+
+### 🛒 Customer Purchase Prediction
+Built a machine learning model to predict purchase likelihood using **10K+ customer records**.
+
+### 📄 NLP Information Extraction
+Converted unstructured research content into structured insights using **NLP techniques**.
+
+---
+
+## 💡 Focus Areas
+
+- AI Decision Systems
+- Predictive Analytics
+- Enterprise Automation
+- Governance Analytics
+- LLM Applications
+- Data Intelligence
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shabbeersyed&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shabbeersyed&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="left">
-<img src="https://streak-stats.demolab.com?user=shabbeersyed"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabbeersyed&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="left">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shabbeersyed&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shabbeersyed&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 💡 Special Focus
+## 🏅 GitHub Trophies
 
-- 🤖 LLM Applications & NLP
-- 📊 Decision Intelligence & Dashboards
-- ⚙️ Enterprise Automation
-- ☁️ Cloud Analytics
-
----
-
-## 🛠️ Skills
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,r,java,postgres,mysql,mongodb,azure,aws,linux"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=selenium,git,github,vscode,postman"/>
-</p>
-
-<p align="left">
-<img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-<img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=E97627"/>
-<img src="https://img.shields.io/badge/Azure%20Synapse-000000?style=for-the-badge&logo=microsoftazure&logoColor=0078D4"/>
-<img src="https://img.shields.io/badge/Databricks-000000?style=for-the-badge&logo=databricks&logoColor=FF3621"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shabbeersyed&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 🔬 Featured Projects
+## 🐍 Contribution Snake
 
-### 🏥 Health Agent — AI Medical Documentation Assistant
-LLM-powered system converting doctor–patient conversations into structured SOAP notes.
-
-### 📊 AdventureWorks Sales Dashboard
-Power BI dashboard uncovering revenue & profit trends using DAX.
-
-### ✈️ U.S. Flight Delay Dashboard
-Tableau analytics revealing operational bottlenecks.
-
-### 🛒 Customer Purchase Prediction
-ML model predicting buying likelihood from 10K+ records.
-
-### 📄 NLP Information Extraction
-Converted unstructured research text into structured insights.
-
----
-
-## 🎯 Focus Areas
-
-✔️ AI Decision Systems  
-✔️ Predictive Analytics  
-✔️ Enterprise Automation  
-✔️ Governance Analytics  
-
----
-
-## 🤝 Contact Me
-
-<p align="left">
-<a href="mailto:syedshabbeerbasha08@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-<a href="https://github.com/shabbeersyed">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shabbeersyed/shabbeersyed/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-⭐ Building intelligent systems that turn data into decisions
+## 📫 Connect With Me
+
+<p>
+  <a href="mailto:syedshabbeerbasha08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/shabbeersyed">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
