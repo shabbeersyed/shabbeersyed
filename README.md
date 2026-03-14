@@ -28,6 +28,12 @@ Flagship AI system that converts **doctor-patient conversations into structured 
 **Technologies**  
 Python • LLMs • NLP • Speech Processing
 
+<p>
+  <a href="https://github.com/shabbeersyed/HealthAgent">
+    <img src="https://skillicons.dev/icons?i=github" height="26" alt="HealthAgent repo" />
+  </a>
+</p>
+
 </td>
     <td width="50%" valign="top">
 
@@ -41,6 +47,12 @@ AI-powered QA assistant that generates:
 
 **Technologies**  
 FastAPI • Google Gemini • Python • Cloud Deployment
+
+<p>
+  <a href="https://github.com/shabbeersyed/testing-assistant">
+    <img src="https://skillicons.dev/icons?i=github" height="26" alt="ETA repo" />
+  </a>
+</p>
 
 </td>
   </tr>
@@ -60,6 +72,12 @@ Multi-agent AI system automating early hiring workflows.
 **Technologies**  
 n8n • OpenAI • Gemini • JavaScript • Google Sheets
 
+<p>
+  <a href="https://github.com/shabbeersyed/ai-recruitment-processing-pipeline-n8n">
+    <img src="https://skillicons.dev/icons?i=github" height="26" alt="Recruitment repo" />
+  </a>
+</p>
+
 </td>
     <td width="50%" valign="top">
 
@@ -68,6 +86,12 @@ Machine learning model predicting **customer purchase likelihood** from transact
 
 **Technologies**  
 Python • Scikit-Learn • Data Analysis
+
+<p>
+  <a href="https://github.com/shabbeersyed/Customer-purchase-prediction">
+    <img src="https://skillicons.dev/icons?i=github" height="26" alt="Customer purchase repo" />
+  </a>
+</p>
 
 </td>
   </tr>
@@ -80,6 +104,12 @@ Pipeline converting **unstructured research text into structured analytical data
 
 **Technologies**  
 Python • NLP • Text Processing
+
+<p>
+  <a href="https://github.com/shabbeersyed/Info-extract">
+    <img src="https://skillicons.dev/icons?i=github" height="26" alt="Info extract repo" />
+  </a>
+</p>
 
 </td>
     <td width="50%" valign="top">
@@ -94,6 +124,45 @@ Collection of workflows exploring:
 **Technologies**  
 n8n • APIs • OpenAI • Google Sheets
 
+<p>
+  <a href="https://github.com/shabbeersyed/ai-recruitment-processing-pipeline-n8n">
+    <img src="https://skillicons.dev/icons?i=github" height="26" alt="n8n repo" />
+  </a>
+</p>
+
+</td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+### SkillUp
+AI-driven talent optimization / HR system project.
+
+**Technologies**  
+TypeScript • AI Workflows • Product Design
+
+<p>
+  <a href="https://github.com/shabbeersyed/SkillUp">
+    <img src="https://skillicons.dev/icons?i=github,ts" height="26" alt="SkillUp repo" />
+  </a>
+</p>
+
+</td>
+    <td width="50%" valign="top">
+
+### Flight Delay Analysis
+Analytics project uncovering operational bottlenecks and delay patterns.
+
+**Technologies**  
+Analytics • Visualization • Data Exploration
+
+<p>
+  <a href="https://github.com/shabbeersyed/Flight_Delay_Analysis">
+    <img src="https://skillicons.dev/icons?i=github" height="26" alt="Flight delay repo" />
+  </a>
+</p>
+
 </td>
   </tr>
 </table>
@@ -107,9 +176,6 @@ n8n • APIs • OpenAI • Google Sheets
     <td width="50%" valign="top">
 
 ### AI & LLM Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=python,aws,azure,js" height="32" alt="skills" />
-</p>
 
 OpenAI • Google Gemini • Claude  
 LangChain • RAG • Prompt Engineering  
@@ -119,11 +185,12 @@ Multi-Agent AI Systems
     <td width="50%" valign="top">
 
 ### Programming
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,java" height="32" alt="programming" />
+  <img src="https://skillicons.dev/icons?i=python,js,java" height="30" alt="programming skills" />
 </p>
 
-Python • SQL • JavaScript • Java • R
+SQL • R
 
 </td>
   </tr>
@@ -132,18 +199,43 @@ Python • SQL • JavaScript • Java • R
     <td width="50%" valign="top">
 
 ### Data & Analytics
-Power BI • Tableau • Looker
 
-### Cloud Platforms
-Azure • AWS • Databricks • Synapse • Snowflake
+<p>
+  <img src="https://skillicons.dev/icons?i=tableau" height="30" alt="analytics skills" />
+</p>
+
+Power BI • Tableau • Looker
 
 </td>
     <td width="50%" valign="top">
 
 ### Automation
-n8n • Selenium • Jenkins • CI/CD • Postman
+
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium,jenkins" height="30" alt="automation skills" />
+</p>
+
+n8n • CI/CD • Postman
+
+</td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+### Cloud & Data Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,databricks" height="30" alt="cloud skills" />
+</p>
+
+Synapse • Snowflake
+
+</td>
+    <td width="50%" valign="top">
 
 ### Data Engineering
+
 ETL Pipelines • Data Ingestion Systems • Dimensional Modeling
 
 </td>
@@ -187,25 +279,27 @@ ETL Pipelines • Data Ingestion Systems • Dimensional Modeling
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shabbeersyed&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shabbeersyed&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shabbeersyed&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabbeersyed&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shabbeersyed&theme=tokyo-night&hide_border=true" alt="Activity graph" />
-</p>
-
 ---
 
 ## Connect
 
-- Email: [syedshabbeerbasha08@gmail.com](mailto:syedshabbeerbasha08@gmail.com)
-- GitHub: [github.com/shabbeersyed](https://github.com/shabbeersyed)
-- LinkedIn: [linkedin.com/in/shabbeer-basha-syed](https://www.linkedin.com/in/shabbeer-basha-syed/)
+<p>
+  <a href="mailto:syedshabbeerbasha08@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="26" alt="email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/shabbeersyed">
+    <img src="https://skillicons.dev/icons?i=github" height="26" alt="github" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/shabbeer-basha-syed/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="26" alt="linkedin" />
+  </a>
+</p>
